@@ -32,6 +32,6 @@ An optimized **SQL database schema** for **Blinkit**, designed to enhance **orde
 -----
 
 ⚙️ **Tech Stack Used**
-• **Database:** PostgreSQL
-• **Tool:** pgAdmin 4
-• **Query Language:** SQL
+ * **Database:** PostgreSQL
+ * **Tool:** pgAdmin 4
+ * **Query Language:** SQL
